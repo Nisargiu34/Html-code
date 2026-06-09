@@ -1,0 +1,46 @@
+*{
+    /* background-color: aquamarine;    */
+}
+ul{
+    display: flex;
+    list-style: none;
+    background-image: linear-gradient(red,blue);
+  
+
+}
+li{
+    padding: 20px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: aqua;
+    text-decoration: none;
+
+}
+a{
+    color: rgb(0, 0, 0);
+}
+  .row .col1     img{
+    width: 200px;
+    /* margin-left: 30px;
+    border-radius: 0px;
+    margin: 20px;
+    padding: 30px; */
+     border: 5px solid red;
+  }
+  .row{
+    margin: 20px;
+    display: flex;
+  }
+  p{
+    margin: 20px;
+    padding: 30px;
+  }
+  h1{
+    text-align: center;
+    color: blueviolet;
+  }
+  .service img{
+    width: 100px;
+  }
